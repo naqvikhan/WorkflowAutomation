@@ -6,3 +6,5 @@ The tool was made to log in using the imported credentials as well as navigate t
 Additionally, the applications essential for work are also opened.
 
 Typically logging in and setting up the workspace takes around 3-4 minutes. This tool reduces that time to 30 seconds.
+
+Disclaimer: For privacy concerns, this version has limited scope of the full tool, however is sufficient to be as an example for any user to implement it.
